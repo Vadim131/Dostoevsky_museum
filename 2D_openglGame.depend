@@ -1,0 +1,929 @@
+# depslib dependency file v1.0
+1659005018 source:/home/myarch/c_projects/2D_openglGame/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"shaders.h"
+	"Structures.h"
+
+1659014238 source:/home/myarch/c_projects/2D_openglGame/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1658317021 /home/myarch/c_projects/2D_openglGame/objects.h
+
+1658290648 /home/myarch/c_projects/2D_openglGame/main.h
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1658031392 source:/home/myarch/c_projects/2D_openglGame/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1653578324 /home/myarch/c_projects/2D_openglGame/camera.h
+
+1656932167 /home/myarch/c_projects/2D_openglGame/render.h
+
+1659007875 source:/home/myarch/c_projects/2D_openglGame/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+
+1658511057 source:/home/myarch/c_projects/2D_openglGame/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1658301825 /home/myarch/c_projects/2D_openglGame/loader.h
+
+1658306359 /home/myarch/c_projects/2D_openglGame/textures.h
+
+1659022777 source:/home/myarch/c_projects/2D_openglGame/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1656951687 /home/myarch/c_projects/2D_openglGame/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1656928984 /home/myarch/c_projects/2D_openglGame/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1657960813 /home/myarch/c_projects/2D_openglGame/shaders.h
+
+1658317021 /home/myarch/c_projects/2D_openglGame/Structures.h
+
+1658287400 source:/home/myarch/c_projects/2D_openglGame/shaders.c
+	"main.h"
+	"loader.h"
+	"Structures.h"
+
+1658041765 /home/myarch/c_projects/2D_openglGame/glad/glad.h
+	<KHR/khrplatform.h>
+
+1658041767 /home/myarch/c_projects/2D_openglGame/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1658042016 source:/home/myarch/c_projects/2D_openglGame/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1661578529 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/main.h
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/glad/glad.h
+	<KHR/khrplatform.h>
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1661578045 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/Structures.h
+
+1661578588 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/camera.h
+
+1659172332 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1661577872 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/objects.h
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/loader.h
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/textures.h
+
+1661578206 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"shaders.h"
+	"Structures.h"
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/render.h
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/shaders.h
+
+1661430509 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1661578529 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1659172332 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/shaders.c
+	"main.h"
+	"loader.h"
+	"Structures.h"
+
+1661180416 source:/home/myarch/c_projects/2D_openglGameV2/2D_openglGame/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1659172332 /home/myarch/c_projects/2D_openglGameV2/2D_openglGame/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1661593515 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1661591041 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/main.h
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/glad/glad.h
+	<KHR/khrplatform.h>
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/Structures.h
+
+1661590492 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/camera.h
+
+1661578745 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1661590780 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/render.h
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/textures.h
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1661593812 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1661593571 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/objects.h
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/loader.h
+
+1661590578 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1661593772 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+	"objects.h"
+
+1661578745 /home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1661594222 source:/home/myarch/OpenGLMuseum/2D_openglGameV2/2D_openglGame/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1662890174 source:/home/myarch/OpenGLMuseum/MuseumV0/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1662727762 /home/myarch/OpenGLMuseum/MuseumV0/main.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1662116957 /home/myarch/OpenGLMuseum/MuseumV0/glad/glad.h
+	<KHR/khrplatform.h>
+
+1662116949 /home/myarch/OpenGLMuseum/MuseumV0/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1661594561 /home/myarch/OpenGLMuseum/MuseumV0/Structures.h
+
+1662557688 /home/myarch/OpenGLMuseum/MuseumV0/camera.h
+
+1662116976 source:/home/myarch/OpenGLMuseum/MuseumV0/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1661607495 source:/home/myarch/OpenGLMuseum/MuseumV0/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1661594561 /home/myarch/OpenGLMuseum/MuseumV0/objects.h
+
+1661594561 /home/myarch/OpenGLMuseum/MuseumV0/loader.h
+
+1661594561 /home/myarch/OpenGLMuseum/MuseumV0/textures.h
+
+1662896524 source:/home/myarch/OpenGLMuseum/MuseumV0/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+	"museum.h"
+
+1662116596 /home/myarch/OpenGLMuseum/MuseumV0/render.h
+
+1662899026 source:/home/myarch/OpenGLMuseum/MuseumV0/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1662898987 source:/home/myarch/OpenGLMuseum/MuseumV0/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+	"objects.h"
+
+1661594561 /home/myarch/OpenGLMuseum/MuseumV0/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1662899026 source:/home/myarch/OpenGLMuseum/MuseumV0/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1661594561 /home/myarch/OpenGLMuseum/MuseumV0/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1661879275 /home/myarch/OpenGLMuseum/MuseumV0/extention.h
+	"GL/glext.h"
+
+1662563379 /home/myarch/OpenGLMuseum/MuseumV0/museum.h
+	"main.h"
+
+1662797657 source:/home/myarch/OpenGLMuseum/MuseumV0/museum.c
+	"museum.h"
+	"main.h"
+	"camera.h"
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/main.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/glad/glad.h
+	<KHR/khrplatform.h>
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/Structures.h
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/camera.h
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/objects.h
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/loader.h
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/textures.h
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+	"museum.h"
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/render.h
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/museum.h
+	"main.h"
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/museum.c
+	"museum.h"
+	"main.h"
+	"camera.h"
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1662900309 source:/home/myarch/OpenGLMuseum/MuseumV1/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1663239366 source:/home/myarch/OpenGLMuseum/MuseumV1/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+	"objects.h"
+
+1662900309 /home/myarch/OpenGLMuseum/MuseumV1/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1663509185 source:/home/myarch/OpenGLMuseum/MuseumV2/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/main.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1663936983 /home/myarch/OpenGLMuseum/MuseumV2/glad/glad.h
+	<KHR/khrplatform.h>
+
+1663936974 /home/myarch/OpenGLMuseum/MuseumV2/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/Structures.h
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/camera.h
+
+1663937003 source:/home/myarch/OpenGLMuseum/MuseumV2/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1663509185 source:/home/myarch/OpenGLMuseum/MuseumV2/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1664112379 /home/myarch/OpenGLMuseum/MuseumV2/objects.h
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/loader.h
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/textures.h
+
+1664112854 source:/home/myarch/OpenGLMuseum/MuseumV2/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+	"museum.h"
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/render.h
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/museum.h
+	"main.h"
+
+1663509185 source:/home/myarch/OpenGLMuseum/MuseumV2/museum.c
+	"museum.h"
+	"main.h"
+	"camera.h"
+
+1664112371 source:/home/myarch/OpenGLMuseum/MuseumV2/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1664444001 source:/home/myarch/OpenGLMuseum/MuseumV2/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+	"objects.h"
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1664016438 source:/home/myarch/OpenGLMuseum/MuseumV2/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1663509185 /home/myarch/OpenGLMuseum/MuseumV2/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1663510123 source:/home/myarch/OpenGLMuseum/MuseumV2/SDL_module.c
+	"main.h"
+
+1666003288 source:/home/myarch/OpenGLMuseum/MuseumV7/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1666007863 /home/myarch/OpenGLMuseum/MuseumV7/main.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1666002618 /home/myarch/OpenGLMuseum/MuseumV7/glad/glad.h
+	<KHR/khrplatform.h>
+
+1666002618 /home/myarch/OpenGLMuseum/MuseumV7/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1666007925 /home/myarch/OpenGLMuseum/MuseumV7/Structures.h
+
+1666003326 /home/myarch/OpenGLMuseum/MuseumV7/camera.h
+
+1666002618 source:/home/myarch/OpenGLMuseum/MuseumV7/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666013297 source:/home/myarch/OpenGLMuseum/MuseumV7/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1666007795 /home/myarch/OpenGLMuseum/MuseumV7/objects.h
+
+1666008181 /home/myarch/OpenGLMuseum/MuseumV7/loader.h
+
+1666002619 /home/myarch/OpenGLMuseum/MuseumV7/textures.h
+
+1666442909 source:/home/myarch/OpenGLMuseum/MuseumV7/museum.c
+	"museum.h"
+	"main.h"
+	"camera.h"
+
+1666002618 /home/myarch/OpenGLMuseum/MuseumV7/museum.h
+	"main.h"
+
+1666968559 source:/home/myarch/OpenGLMuseum/MuseumV7/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1666002619 /home/myarch/OpenGLMuseum/MuseumV7/render.h
+
+1666968407 source:/home/myarch/OpenGLMuseum/MuseumV7/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+	"objects.h"
+
+1666002618 /home/myarch/OpenGLMuseum/MuseumV7/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1666358552 source:/home/myarch/OpenGLMuseum/MuseumV7/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1666002618 /home/myarch/OpenGLMuseum/MuseumV7/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1666521719 source:/home/myarch/OpenGLMuseum/MuseumV7/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+	"museum.h"
+
+1670608797 source:/home/myarch/OpenGLMuseum/MuseumV8/camera.c
+	"main.h"
+	"camera.h"
+	"Structures.h"
+
+1670609466 /home/myarch/OpenGLMuseum/MuseumV8/main.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<malloc.h>
+	"./glad/glad.h"
+	"./glad/khrplatform.h"
+	<GL/glu.h>
+	"Structures.h"
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/glad/glad.h
+	<KHR/khrplatform.h>
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/glad/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/Structures.h
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/camera.h
+
+1666970753 source:/home/myarch/OpenGLMuseum/MuseumV8/glad/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669208885 source:/home/myarch/OpenGLMuseum/MuseumV8/loader.c
+	"main.h"
+	"objects.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/objects.h
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/loader.h
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/textures.h
+
+1667880701 source:/home/myarch/OpenGLMuseum/MuseumV8/museum.c
+	"museum.h"
+	"main.h"
+	"camera.h"
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/museum.h
+	"main.h"
+
+1670606938 source:/home/myarch/OpenGLMuseum/MuseumV8/objects.c
+	"main.h"
+	"loader.h"
+	"objects.h"
+	"render.h"
+	"Structures.h"
+	"textures.h"
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/render.h
+
+1670603867 source:/home/myarch/OpenGLMuseum/MuseumV8/render.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"front_from_stb.h"
+	"Structures.h"
+	"objects.h"
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/front_from_stb.h
+	<stdlib.h>
+	<math.h>
+
+1669216694 source:/home/myarch/OpenGLMuseum/MuseumV8/textures.c
+	"main.h"
+	"camera.h"
+	"render.h"
+	"textures.h"
+	"LoadLibrary.h"
+	"Structures.h"
+
+1666970753 /home/myarch/OpenGLMuseum/MuseumV8/LoadLibrary.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1670607009 source:/home/myarch/OpenGLMuseum/MuseumV8/main.c
+	"main.h"
+	"objects.h"
+	"camera.h"
+	"render.h"
+	"loader.h"
+	"textures.h"
+	"Structures.h"
+	"museum.h"
+
+1667884153 source:/home/myarch/OpenGLMuseum/MuseumV8/collisions.c
+
